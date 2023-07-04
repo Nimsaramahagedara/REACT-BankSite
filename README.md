@@ -1,3 +1,7 @@
+
+![Web capture_4-7-2023_21323_localhost](https://github.com/Nimsaramahagedara/REACT-BankSite/assets/92454064/0402efbb-afcc-408f-882a-e67990e4d273)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
