@@ -1,5 +1,5 @@
 
-![Web capture_4-7-2023_21323_localhost](https://github.com/Nimsaramahagedara/REACT-BankSite/assets/92454064/0402efbb-afcc-408f-882a-e67990e4d273)
+![Web capture_4-7-2023_21648_localhost](https://github.com/Nimsaramahagedara/REACT-BankSite/assets/92454064/998f0956-07ae-4819-ad35-c835a2d2414e)
 
 
 # Getting Started with Create React App
